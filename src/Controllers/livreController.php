@@ -8,6 +8,7 @@ use livre\Validator;
 /** Class UserController **/
 class livreController {
     private $manager;
+    private $validator;
 
     public function __construct() {
         $this->manager = new livreManager();
