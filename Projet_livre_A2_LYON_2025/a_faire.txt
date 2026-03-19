@@ -1,0 +1,4 @@
+## A faire
+- les taches
+- faire marcher le delete list avec le slug et sans S_POST dans manager
+- public function find($name, $userId): null|false|Todo
