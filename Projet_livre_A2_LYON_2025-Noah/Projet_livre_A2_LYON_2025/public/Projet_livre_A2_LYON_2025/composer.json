@@ -1,9 +1,0 @@
-{
-  "name": "noah/eval",
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "livre\\": "src/"
-    }
-  }
-}
