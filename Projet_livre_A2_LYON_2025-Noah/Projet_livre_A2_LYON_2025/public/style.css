@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: poppins;
+}
+
+header {
+  border-top: 10px solid #44337a;
+  background-color: #d2b4f6;
+  padding: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 1300px;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+.homepage #tout {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.homepage button {
+  background-color: #2ea44f;
+  color: white;
+  border-style: none;
+  border-radius: 8px;
+  padding-inline: 10px;
+}
+
+.homepage #tout div {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+i {
+  color: #44337a;
+  border: black solid 2px;
+}
+
+.livres {
+  margin: 30px;
+}
+
+#livre {
+  margin: 40px;
+}
